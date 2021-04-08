@@ -1,5 +1,5 @@
 # pendulum-simulation
-A simulation of a pendulum with air resistance using non-linear differential equations for a high school senior year physics project.
+A simulation of a pendulum with air resistance using non-linear differential equations.
 
 ## Mathmatical Models
 
